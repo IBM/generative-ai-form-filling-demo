@@ -1,0 +1,7 @@
+@use '@carbon/react' with (
+  $font-path: '@ibm/plex'
+);
+
+.cds--css-grid-column {
+  margin-top: 1rem;
+}
