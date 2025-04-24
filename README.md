@@ -1,6 +1,6 @@
 # GenAI Form Auto-fill Demo
 
-This is a demo application that demonstrates generative ai form auto-filling.
+This is a demo application that demonstrates generative AI form auto-filling for the following [article](https://github.com/IBM/generative-ai-form-filling-demo).
 
 ## Running the frontend application
 
